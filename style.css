@@ -122,3 +122,16 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+.btn{
+    background-color: #E33741;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: white;
+}
+#first-total, #economy-total{
+    display: none;
+}
+.ship{
+    background-image: url(images/ship-pic.jpg) ;
+    margin: 40px;
+}
